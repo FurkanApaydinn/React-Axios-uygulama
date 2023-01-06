@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Axios-uygulama/static/css/main.073c9b0a.css",
+    "main.js": "/React-Axios-uygulama/static/js/main.16bed38c.js",
+    "index.html": "/React-Axios-uygulama/index.html",
+    "main.073c9b0a.css.map": "/React-Axios-uygulama/static/css/main.073c9b0a.css.map",
+    "main.16bed38c.js.map": "/React-Axios-uygulama/static/js/main.16bed38c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.16bed38c.js"
+  ]
+}
